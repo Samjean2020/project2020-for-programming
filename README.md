@@ -11,6 +11,12 @@ The Iris dataset is a well known dataset containing information on three differe
 Dr E. Anderson found the iris flowers (Iris setosa and Iris versicolor), growing together in the same colony and measured them (Fisher, p.179, The Annals of Human Genetics). Dataset specifications comprise 150 as the number of instances, 50 in each of the three classes. The number of attributes is represented by 4 numeric, predictive attributes and the class. Attribute information is as follows: sepal length in cm, sepal width in cm, petal length, petal width in cm and class including Iris-Setosa, Irish Versicolor and Iris Virginica (Scikit-learn, July 1988).
 
  
+
+
+
+
+ 
+
                            
                                     
                                     
