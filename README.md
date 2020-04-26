@@ -94,7 +94,14 @@ See dataset as described above.
                                     
                                     Problem statement
                                     
-       This project is about Fisher’s Iris Dataset. Documentation and code are written in Python. The outline includes (1) research and summary of the data in README, (2) download the data set and add it to our repository, (3) write a program called analysis.py that outputs a summary of each variable to a single text file, saves a histogram of each variable to png files, and outputs a scatter plot of each pair of variables.
+       This project is about Fisher’s Iris Dataset. Documentation and code are written in Python. 
+       The outline includes: 
+       (1) research and summary of the data in README, 
+       (2) download the data set and add it to our repository, 
+       (3) write a program called analysis.py that outputs:
+        > a summary of each variable to a single text file, 
+        > saves a histogram of each    variable to png files, 
+        > and outputs a scatter plot       of each pair of variables.
 
                           (1) Research and summary of the data in README
                           
